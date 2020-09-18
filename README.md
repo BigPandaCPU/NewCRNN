@@ -18,6 +18,11 @@ pytorch=0.4.0， 百度的warpCTC
 模型训练:
           
           python  train_ocr.py
+
+模型测试：
+ 
+          python  test_crnn_torch.py
+          python  test_crnn_keras.py
           
 模型转换脚本：
 
