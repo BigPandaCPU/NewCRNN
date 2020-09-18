@@ -47,7 +47,7 @@ pytorch=0.4.0， warpCTC
 
 Author:BigPanda
 
-E-mail:wangxiong@founder.com 
+E-mail:wang.xiong@founder.com 
 
 State Key Laboratory of Digital Publishing Technology 
 
