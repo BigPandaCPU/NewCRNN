@@ -9,7 +9,7 @@ OpenCV支持darknet框架。
 训练用pytorch训练，部署基于opencv
 
 
-pytorch=0.4.0， 百度的warpCTC
+pytorch=0.4.0， warpCTC
 
 训练环境：
            
