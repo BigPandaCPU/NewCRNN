@@ -9,7 +9,11 @@ OpenCV支持darknet框架。
 训练用pytorch训练，部署基于opencv
 
 
-pytorch=0.4.0
+pytorch=0.4.0， 百度的warpCTC
+
+训练环境：
+           
+           linux训练环境
 
 模型训练:
           
@@ -25,9 +29,17 @@ pytorch=0.4.0
     感谢chineeOcr作者的无私奉献，我在他的基础上做了一点点工作，
     将CRNN权重文件从pytorch转keras，keras转darknet的脚本调试通。
     
-补充：模型文件的下载链接
+补充：
+           
+      模型文件的下载链接：链接：https://pan.baidu.com/s/1j-o7zbAvjwuV0p3GPe-uwg 
+      提取码：9vxy
+      warpCTC下载链接：https://github.com/SeanNaren/warp-ctc, 
+      在编译该warpCTC 可能会报错，建议将CmakeList文件中的C++15改为C++11试试看
 
 Author:BigPanda
+
 E-mail:wangxiong@founder.com 
+
 State Key Laboratory of Digital Publishing Technology 
+
 Date:2020-9-18
