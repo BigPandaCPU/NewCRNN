@@ -3,9 +3,13 @@
 另外此模型是在chinseOcr的ocr模型基础上进行整理的
 
 CRNN    = CNN + BiLSTM + CTC_Loss/Beam_Search
+
 NewCRNN = CNN + CTC_Loss/硬解码（Greedy_Search）
+
 提供的转换脚本是为了便于部署，可以直接在OpenCV上部署。
+
 OpenCV支持darknet框架。
+
 训练用pytorch训练，部署基于opencv
 
 
