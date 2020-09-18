@@ -1,0 +1,2 @@
+# NewCRNN
+此项目提供了NewCRNN的pytorch训练脚本及将模型文件从pytorch转keras，keras装darknet格式的转换脚本，另外此模型是在chinseOcr的ocr模型基础上进行整理的
